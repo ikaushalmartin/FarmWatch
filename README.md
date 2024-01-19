@@ -84,6 +84,7 @@ Crop Vandalism by animals is a major problem for farmers and can result in signi
     * Add backend ip in your object detection folders object-indent-3 file
     * Excute object-indent-3 file, it will start the camera for detection.
   
-Modify API logics or other code according to the need.
+Review whole code, add required fields and files carefully.
+
 
  
