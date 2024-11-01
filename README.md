@@ -49,17 +49,17 @@ Crop Vandalism by animals is a major problem for farmers and can result in signi
 ## Screenshots
 - **Mobile Application**
   <p align="left">
-  <img src="https://github.com/ikaushalmartin/Farm-Watch/blob/2ac6587254ae52f4bfe3e553c43b83c660e2f499/Screenshots/initial.png" alt="Login Screenshot" width="250" height="500">
-  <img src="https://github.com/ikaushalmartin/Farm-Watch/blob/2ac6587254ae52f4bfe3e553c43b83c660e2f499/Screenshots/login.png" alt="Signup Screenshot" width="250" height="500">
-   <img src="https://github.com/ikaushalmartin/Farm-Watch/blob/2ac6587254ae52f4bfe3e553c43b83c660e2f499/Screenshots/recent_info.png" alt="Signup Screenshot" width="250" height="500">
-    <img src="https://github.com/ikaushalmartin/Farm-Watch/blob/2ac6587254ae52f4bfe3e553c43b83c660e2f499/Screenshots/reent.png" alt="Signup Screenshot" width="250" height="500">
-   <img src="https://github.com/ikaushalmartin/Farm-Watch/blob/d4c97c1e3c46e2c345e73f8567dfe7d9c0ab4592/Screenshots/noti.png" alt="Signup Screenshot" width="250" height="500">
+  <img src="Screenshots/initial.png" alt="Login Screenshot" width="250" height="500">
+  <img src="Screenshots/login.png" alt="Signup Screenshot" width="250" height="500">
+   <img src="Screenshots/recent_info.png" alt="Signup Screenshot" width="250" height="500">
+    <img src="Screenshots/reent.png" alt="Signup Screenshot" width="250" height="500">
+   <img src="Screenshots/noti.png" alt="Signup Screenshot" width="250" height="500">
   </p>
 
   - **Hardware and Backend**
     <p align="left">
   <img src="Screenshots/dango.png" alt="Login Screenshot" width="300" height="300">
-  <img src="https://github.com/ikaushalmartin/Farm-Watch/blob/d4c97c1e3c46e2c345e73f8567dfe7d9c0ab4592/Screenshots/hw.png" alt="Signup Screenshot" width="300" height="300">
+  <img src="Screenshots/hw.png" alt="Signup Screenshot" width="300" height="300">
  
   </p>
 
