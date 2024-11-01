@@ -34,7 +34,7 @@ Crop Vandalism by animals is a major problem for farmers and can result in signi
 
 ## Workflow
 
- <img src="https://github.com/ikaushalmartin/Farm-Watch/blob/d50db9cac15bdc71229233f98bcdfed586518654/Screenshots/workflow.png" alt="Alt Text" width="500" height="500">
+ <img src="Screenshots/workflow.png" alt="Alt Text" width="500" height="500">
 
  - When a user logs in, an initial request is sent to Firebase to fetch previous intrusion data.
  - Simultaneously, an API is called to view the live field through a camera view.
