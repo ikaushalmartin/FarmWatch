@@ -58,7 +58,7 @@ Crop Vandalism by animals is a major problem for farmers and can result in signi
 
   - **Hardware and Backend**
     <p align="left">
-  <img src="https://github.com/ikaushalmartin/Farm-Watch/blob/d4c97c1e3c46e2c345e73f8567dfe7d9c0ab4592/Screenshots/dango.png" alt="Login Screenshot" width="300" height="300">
+  <img src="Screenshots/dango.png" alt="Login Screenshot" width="300" height="300">
   <img src="https://github.com/ikaushalmartin/Farm-Watch/blob/d4c97c1e3c46e2c345e73f8567dfe7d9c0ab4592/Screenshots/hw.png" alt="Signup Screenshot" width="300" height="300">
  
   </p>
