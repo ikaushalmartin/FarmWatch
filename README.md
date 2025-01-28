@@ -18,13 +18,6 @@ Crop Vandalism by animals is a major problem for farmers and can result in signi
 - Middleware: Django
 - Backend Language: Python
 
-#### Backend
-- Database: Firestore Database
-- Authentication: Firebase Authentication
-- File Storage: Firebase Storage
-- Middleware: Django
-- Backend Language: Python
-
 #### Hardware
 - Respberry Pi
 - Camera
